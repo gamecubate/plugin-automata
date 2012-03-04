@@ -1,10 +1,10 @@
-# CellularAutomaton - plugin for ImpactJS #
+# Cellular automaton plugin for ImpactJS #
 
 A cellular automaton plugin for the Impact javascript game engine (http://impactjs.com/). The base class, Automaton, extends ig.Class and maintains a population of cells, some alive and the rest dead, the status of which it updates every time its step function is invoked. Subclasses should override this function to provide their own behaviour. One such subclass, Conway, is provided with this package and serves as a basic example. — Read more
 
-* Created by Alexandre Rousseau for [gamecubate](http://www.gamecubate.com); batteries not included.
+* Created by Alexandre Rousseau for [gamecubate](http://www.gamecubate.com); use at will but at own risk.
 * Sample project and comments at http://www.gamecubate.com/playground/automata_plugin_demo .
-* Reach me by email (alexr @ ...) or via the Impact forums (alexandre).
+* You can reach me by email (alexr at gamecubate dot com) or via the Impact forums (alexandre).
 
 # Installation
 
@@ -25,4 +25,4 @@ A cellular automaton plugin for the Impact javascript game engine (http://impact
 
 # More Information
 
-* See https://github.com/gamecubator/demo-plugin-automata/lib/game/main.js for sample usage.
+* See https://github.com/gamecubator/demo-plugin-automata/ for sample usage.

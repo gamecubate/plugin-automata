@@ -8,7 +8,7 @@ Reach me by email (alexr @ ...) or via the Impact forums (alexandre).
 
 # Installation
 
-* Inside your ImpactJS project's plugins, make subfolders gamecubate/automata.
+* Inside your ImpactJS project's plugins folder, make subfolders gamecubate and gamecubate/automata.
 * Move automaton.js and conway.js inside ``[PROJECT]/lib/plugins/gamecubate/automata/``
 * Add the plugin to your main.js file
 <pre>
@@ -22,6 +22,6 @@ Reach me by email (alexr @ ...) or via the Impact forums (alexandre).
         ...
     )
 </pre>
-* Refer to https://github.com/gamecubator/demo-plugin-automata for sample usage.
+* See https://github.com/gamecubator/demo-plugin-automata/lib/game/main.js for sample usage.
 
 # More Information

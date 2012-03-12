@@ -3,12 +3,12 @@ ig.module(
 )
 
 .requires(
-	'plugins.gamecubate.automata.automaton'
+	'plugins.gamecubate.automata.automata-base'
 )
 
 .defines(function(){
 
-	Conway = Automaton.extend({
+	Conway = AutomataBase.extend({
 
 	/*
 	Rules

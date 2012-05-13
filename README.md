@@ -25,4 +25,4 @@ A cellular automaton plugin for the Impact javascript game engine (http://impact
 
 # More Information
 
-* See https://github.com/gamecubator/demo-plugin-automata/ for sample usage.
+* See https://github.com/gamecubate/demo-plugin-automata/ for sample usage.
